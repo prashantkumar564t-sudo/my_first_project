@@ -1,1 +1,1 @@
-print("Hello Git from Termux")
+print("Git is powefull")
